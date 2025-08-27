@@ -31,7 +31,7 @@ cd test_kri
 Создайте файл .env в корне проекта:
 
 ```
-cd app
+cd src
 touch .env
 ```
 
